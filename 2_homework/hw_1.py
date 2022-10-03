@@ -8,4 +8,4 @@ sumnum = 0
 for numberdig in a:
     if numberdig.isdigit():
         sumnum += int(numberdig)
-print(f"digit sum in your number {a} is: {sumnum}")
+print(f"digits sum in your number {a} is: {sumnum}")
